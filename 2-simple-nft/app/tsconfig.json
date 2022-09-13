@@ -1,0 +1,11 @@
+{
+  "include": [
+    "src/*"
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "jsx": "react",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
